@@ -15,4 +15,5 @@ fun main() {
         |Good choice.
     """.trimMargin())
     println("Variable \$name are $name")
+    println("Variable \$name are $name")
 }
