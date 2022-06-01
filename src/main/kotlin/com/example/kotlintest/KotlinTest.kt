@@ -16,4 +16,5 @@ fun main() {
     """.trimMargin())
     println("Variable \$name are $name")
     println("Variable \$name are $name")
+    println("Variable \$name are $name")
 }
